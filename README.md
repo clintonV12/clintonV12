@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clintonV12
 - 👀 I’m interested in e-commerce, ed-tech and fintech
-- 🌱 I’m currently learning cakephp framework
+- 🌱 Love working with and learning zend framework
 - 💞️ I’m looking to collaborate on exciting web projects especially in php
 - 📫 I can be reached at vilakaticlinton@gmail.com
 
