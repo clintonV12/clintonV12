@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clintonV12
 - 👀 I’m interested in e-commerce, ed-tech and fintech
 - 🌱 Currently learning the go programming language
-- 💞️ I’m looking to collaborate on exciting web projects especially in php
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 I can be reached at vilakaticlinton@gmail.com
 
 <!---
